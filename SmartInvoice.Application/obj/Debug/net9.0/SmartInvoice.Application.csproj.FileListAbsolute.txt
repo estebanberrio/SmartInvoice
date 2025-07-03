@@ -1,0 +1,16 @@
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\bin\Debug\net9.0\SmartInvoice.Application.deps.json
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\bin\Debug\net9.0\SmartInvoice.Application.dll
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\bin\Debug\net9.0\SmartInvoice.Application.pdb
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\bin\Debug\net9.0\SmartInvoice.Domain.dll
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\bin\Debug\net9.0\SmartInvoice.Domain.pdb
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.csproj.AssemblyReference.cache
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.AssemblyInfoInputs.cache
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.AssemblyInfo.cs
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.csproj.CoreCompileInputs.cache
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.sourcelink.json
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInv.EB328A57.Up2Date
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.dll
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\refint\SmartInvoice.Application.dll
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\SmartInvoice.Application.pdb
+C:\Users\juan.berrio\OneDrive - CI ESLOP SAS\Documentos\Personal\Sources\SmartInvoice\SmartInvoice.Application\obj\Debug\net9.0\ref\SmartInvoice.Application.dll
